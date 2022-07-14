@@ -11,8 +11,7 @@ Has the option to fire multiple transactions at once
 ## First Launch ##
 * Unpack https:// password PancakeSwap archive
 * Set up config.json 
-<
- {
+```{
     "metamask_address": "",
     "metamask_private_key": "" ,
 
@@ -27,5 +26,6 @@ Has the option to fire multiple transactions at once
     "MinLiquidityBNB": 0.5,
     "MaxSellTax": 25,
     "MaxBuyTax": 15, 
+```
 
-    >
+    
